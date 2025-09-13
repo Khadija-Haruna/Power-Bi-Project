@@ -1,13 +1,14 @@
 # Power-Bi-Project
 Nigeria Uber Dataset 
+https://ibb.co/Kcn0M5RD
 
-https://thenigeriaeducationnews.com/2025/08/18/why-uber-and-bolt-drivers-earn-more-than-doctors-and-teachers-in-nigeria-a-nations-misplaced-priorities/
+ Nigerian Uber is experiencing rapid growth in ride demand across major cities, therefore its seeking to improve operational efficiency, enhance customer performance and driver experience, revenue optimization, by providing actionable insights for management and data-driven decisions on pricing, performance, expansion and service quality ultimately boosting business growth.
 
-Nigerian Uber is experiencing rapid growth in ride demand across major cities, therefore its seeking to improve operational efficiency, enhance customer performance and driver experience, revenue optimization by providing actionable insights for management and data-driven decisions on pricing, performance, expansion and service quality ultimately boosting business growth.
-By leveraging, executing power bi, I used the ETL models for data cleaning, Calculated DAX measures for KPIs, and displayed visuals which include combination of charts and KPIs cards to track and easily spot business growth.
+ By leveraging power bi, I utilized ETL models for data cleansing, Calculated DAX measures for KPIs, and displayed visuals which include combination of charts and KPIs cards to track and easily spot business growth.
+ 
 Key findings:
-Location
-The most popular pickup location is Port Harcourt reasons are majority of the ubers are sited there and others which are not specified are accounted as the least pickup location also the most frequent drop off location is Garkii and the less frequent is Lekki.
+1. Location
+ The most popular pickup location is Port Harcourt reasons are majority of the ubers are sited there and others which are not specified are accounted as the least pickup location also the most frequent drop off location is Garkii and the less frequent is Lekki.
 Revenue
 The total revenue for the whole trip analysis is $10m with an average of $10.75k.
 Time in high Demand
